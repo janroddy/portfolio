@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm Jan Roddy :)
+I'm Jan Roddy :) :0
