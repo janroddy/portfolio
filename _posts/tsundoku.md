@@ -11,4 +11,3 @@ button_icon: 'github'
 button_text: 'Visit Project'
 lead_text: 'A personal library application.'
 ---
-TSUNKDOKU ....
