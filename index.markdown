@@ -1,12 +1,10 @@
 ---
-
-layout: home
 ---
 ## Tsundoku
+#### An e-commerce prototype
+![]({{ site.baseurl }}/img/ts.png)
 
-![Tsundoku]({{ site.baseurl }}/img/ts.png)
-
-[Check out the project demo](https://janroddy.github.io/tsundoku/welcome)
+[Check out the project](https://janroddy.github.io/tsundoku/welcome)
 
 ## Purls & Poodles
 
