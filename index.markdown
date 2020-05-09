@@ -37,9 +37,9 @@ layout: home
 
 ![Eagle]({{ site.baseurl }}/img/e.jpg )
 
-[Check out the project demo](http://students.cs.umt.edu/~jr204995/validation/)
+[Check out the project demo](https://janroddy.github.io/eagle-ridge-iris/)
 
-## Women in State Legislatures
+## Women in State Legislatures 
 #### A D3.js data visualization
 
 [Check out the project demo](https://janroddy.github.io/women_state_leg/)
