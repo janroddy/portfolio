@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 ---
+## Tsundoku
+
+![Tsundoku]({{ site.baseurl }}/img/ts.png)
+
+[Check out the project demo](https://janroddy.github.io/tsundoku/welcome)
+
+## Purls & Poodles
+
+![Purls & Poodles]({{ site.baseurl }}/img/p&p.png )
+
+[Check out the project demo](http://webdev.cs.umt.edu/~jr204995/)
