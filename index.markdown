@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 ## Tsundoku
 
 ![]({{ site.baseurl }}/img/ts.png)
@@ -18,7 +19,7 @@ layout: home
 ## Animals Think that You're Cool
 
 #### A simple compliment generator
-![Animals Think]({{ site.baseurl }}/img/p&p.png )
+![Animals Think]({{ site.baseurl }}/img/animals.jpg)
 
 [Check out the project demo](http://students.cs.umt.edu/~jr204995/PDF/)
 
@@ -26,7 +27,7 @@ layout: home
 ## Charlie's Website
 
 #### Charlie Roddy-Foster has a web presence
-![Char Char]({{ site.baseurl }}/img/p&p.png )
+![Char Char]({{ site.baseurl }}/img/c.png )
 
 [Check out the project demo](http://students.cs.umt.edu/~jr204995/validation/)
 
@@ -34,7 +35,7 @@ layout: home
 ## Eagle Ridge Iris Gardens
 #### A small business website
 
-![Eagle]({{ site.baseurl }}/img/p&p.png )
+![Eagle]({{ site.baseurl }}/img/e.jpg )
 
 [Check out the project demo](http://students.cs.umt.edu/~jr204995/validation/)
 
