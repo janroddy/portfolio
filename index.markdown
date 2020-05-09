@@ -1,5 +1,5 @@
 ---
-layout: home
+
 ---
 
 ## Tsundoku
@@ -39,7 +39,7 @@ layout: home
 
 [Check out the project demo](https://janroddy.github.io/eagle-ridge-iris/)
 
-## Women in State Legislatures 
+## Women in State Legislatures
 #### A D3.js data visualization
 
 [Check out the project demo](https://janroddy.github.io/women_state_leg/)
