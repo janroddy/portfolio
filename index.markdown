@@ -1,8 +1,9 @@
 
 
-## Tsundoku
+# Portfolio
 
-![]({{ site.baseurl }}/img/ts.png)
+## tsundoku
+![tsunkdoku]({{ site.baseurl }}/img/ts.png)
 
 [Check out the project](https://janroddy.github.io/tsundoku/welcome)
 
