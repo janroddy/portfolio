@@ -2,7 +2,6 @@
 
 ---
 
-## Tsundoku
 
 ![]({{ site.baseurl }}/img/ts.png)
 

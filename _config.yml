@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    Computer Science master's student focusing on Computer Science Education, Web Programming, and UI/UX
 baseurl: "/portfolio"
 url: "http://janroddy.github/potfolio.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  janroddy
+github_username: janroddy
 
 # Build settings
 permalink: pretty
