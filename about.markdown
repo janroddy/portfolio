@@ -13,8 +13,7 @@ permalink: /about/
 
 ## Web Programming
 
-* Full Stack web development experience with PHP, Angular, MySQL
-[Purls & Poodles](http://webdev.cs.umt.edu/~jr204995/).
+* Full Stack web development
 
 ## Data Visualization  
 * D3.js
